@@ -1,0 +1,4 @@
+@echo off
+ cd "C:\Users\SAIMASHARONI\Desktop\office file\Automation\working\bn\all suites"
+"C:\Users\SAIMASHARONI\Desktop\office file\Automation\working\bn\venv\Scripts\activate"
+"test_suites.py"
